@@ -1,0 +1,62 @@
+
+      
+        img {
+            background: url(https://secure.img1-fg.wfcdn.com/im/20281258/resize-h445%5Ecompr-r85/8420/84209975/Keeble+Children+Removable+Peel+and+Stick+Wallpaper+Panel.jpg);   
+            
+        }
+        
+        
+       h1 {
+            color: indigo;
+            font: bold;
+            font-size: 75px;
+            text-align: center;
+
+        }
+        
+        h2 {
+            color: purple;
+            font: bold;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        h3 {
+            color: black;
+            font: bold;
+            font-size: 20px;
+        }
+
+        strong {
+            color: blue;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        table { border: 10px solid black;
+            width: 250px;
+            height: 200px;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        
+        span  {
+            background-color: cadetblue;
+            font-size: 30px;
+            width: 15px;
+            height: 20px;
+            text-align: center;
+        }
+
+        #two {
+            background-color: plum;
+        }
+
+        #three {
+            background-color: salmon;
+        }
+        
